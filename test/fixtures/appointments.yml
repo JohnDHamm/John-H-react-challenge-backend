@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  type: 
+  date: 2019-07-31
+  status: 1
+  provider_id: 1
+  cost: 1.5
+
+two:
+  type: 
+  date: 2019-07-31
+  status: 1
+  provider_id: 1
+  cost: 1.5
